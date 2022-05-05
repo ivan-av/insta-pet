@@ -8,3 +8,4 @@
 + Cristian Smith Rada Ramos
 + Brayan Marín
 + Daniel Garcia
++ Bastian Parra Bejar
