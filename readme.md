@@ -6,3 +6,4 @@
 + Joaquin Marcelo Martinez Ibañez
 + Leonardo Javier Temporal Márquez
 + Cristian Smith Rada Ramos
++ Brayan Marín
