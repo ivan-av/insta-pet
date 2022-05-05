@@ -7,3 +7,4 @@
 + Leonardo Javier Temporal Márquez
 + Cristian Smith Rada Ramos
 + Brayan Marín
++ Daniel Garcia
