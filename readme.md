@@ -4,7 +4,6 @@
 + Leonardo Javier Temporal Márquez
 + Andres Felipe Padilla
 + Joaquin Marcelo Martinez Ibañez
-+ Leonardo Javier Temporal Márquez
 + Cristian Smith Rada Ramos
 + Brayan Marín
 + Daniel Garcia
